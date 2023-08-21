@@ -1,5 +1,5 @@
 # About Tenma
-My name is Tenma, and I am an independent smart contract security researcher.
+My name is Tenma, and I am an independent smart contract security researcher and smart contract developer. I've expert level of foundry, solidity coding experience. Before working on web3, I had trained and tested deep leraning algorithms in Python. Now I focus more on ZK Proof, Lattice Cyptography, Formal Verification as my side research hobby. DM for free audits!
 
 - Currently, I am actively engaged in audit contests on platforms such as sherlock, hats finance, code4rena and trying my best to find every vulnerability possible.
 
