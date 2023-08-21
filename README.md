@@ -1,7 +1,5 @@
 # About Tenma
-My name is Kenzo, and I am an independent smart contract security researcher and smart contract developer (Currently developing Rupa coin, the first indian stablecoin pegged to INR). I've expert level of foundry, solidity coding experience. Before working on web3, I had trained and tested deep leraning algorithms in Python. Now I focus more on ZK Proof, Lattice Cyptography, Formal Verification as my side research hobby. DM for free audits!
-
-- Currently, I am actively engaged in audit contests on platforms such as sherlock, hats finance, code4rena and trying my best to find every vulnerability possible.
+My name is Kenzo, and I am an independent smart contract security researcher and smart contract developer (Currently developing Rupa coin, the first indian stablecoin pegged to INR). I've expert level of foundry, solidity coding experience. Before working on web3, I had trained and tested deep leraning algorithms in Python. Now I focus more on ZK Proof, Lattice Cyptography, Formal Verification as my side research hobby. I am actively engaged in audit contests on platforms such as sherlock, hats finance, code4rena and trying my best to find every vulnerability possible. DM on Twitter for Audits.
 
 # Wall of achievements
 
