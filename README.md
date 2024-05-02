@@ -1,2 +1,2 @@
 # About Tenma
-Findings Bugs 
+Finding Bugs 
